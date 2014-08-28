@@ -1,0 +1,57 @@
+body {
+	background-color:#262623;							/* 262623 dark grey */
+	/*background-image:url("images/guns_1000.jpg");*/
+	/*background-repeat: no-repeat;*/
+	font-family:Halvetica, Arial, sens-serif;
+	/*margin-left:10%;*/
+	/*margin-right:10%;*/
+	color:#000;										/* 72A603 light green */
+	}
+
+h1, h2, h3 {
+	color:#999;										/* A6761C orange tan */
+	}
+	
+a {
+	color:#000;										/* BF59BF light purple */
+	text-decoration: none;
+	}
+	
+a:hover {
+	color:#FFFFFF;										/* BF8EBF light purple */
+	text-decoration: underline;
+	}
+	
+.specialp {
+	color:#000;										/* 006600 green */
+	}
+
+/* this is navigation style */
+#topnav {
+	background-color:#000;							/* CCFFFF light blue */
+	padding: 10px;
+	margin: 25px;
+	margin-top: 260px;
+	border: 1px solid #000;								/* 999 grey */
+	}
+
+#topnav a {
+	font-weight: bold;
+	text-decoration: none;
+	color:#999;											/* 000 black */
+	padding: 10px;
+	}
+	
+	
+#topnav a:hover {
+	color:#FFFFFF;										/* CCFFFF light blue */
+	background-color:#999;
+	
+								/* 999 grey */
+	}
+	
+/* list of common colors */
+
+/* 999 grey */
+/* 000 black */
+/* FFFFFF white */

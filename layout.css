@@ -1,0 +1,45 @@
+#wrapper {
+width: 700px;
+margin-left: auto;
+margin-right: auto;
+background-image: url("images/transparent.png");
+padding: 10px 25px;
+}
+
+#header {
+background-image:url("images/dark.jpg");
+height: 350px;
+
+}
+
+/*
+#header h1 {
+background-image:url("images/title.png");
+height: 100px;
+width:600px;
+padding: 10px;
+}
+*/
+
+.column {
+width: 275px; 
+float: left; 
+padding: 20px;
+margin: 15px;
+}
+
+.clear {
+clear: both;
+}
+
+/* gallery style */
+
+.gallery img {
+border: 1px dashed #000;
+padding: 10px;
+background-color: #fff;
+}
+
+.gallery img:hover {
+background-color: #ccc; 
+}
